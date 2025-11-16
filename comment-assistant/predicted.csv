@@ -1,0 +1,201 @@
+id,text,label,cleaned,predicted_label
+1,Amazing work bro 😭🔥 loved this!,praise,amazing work bro loved this,praise
+2,This is sooo good omg,praise,this is sooo good omg,praise
+3,"Beautiful animation, keep shining!",praise,beautiful animation keep shining,praise
+4,Love the vibe of this video!,praise,love the vibe of this video,praise
+5,Your content always hits different!,praise,your content always hits different,praise
+6,"Keep going, you're improving every day 🤍",support,keep going youre improving every day,support
+7,"Don’t stop, rooting for you!",support,dont stop rooting for you,support
+8,"You're doing great, trust the process.",support,youre doing great trust the process,constructive
+9,Proud of you for posting this!,support,proud of you for posting this,support
+10,"You got this, waiting for more!",support,you got this waiting for more,question
+11,Nice attempt but the audio timing feels a bit off.,constructive,nice attempt but the audio timing feels a bit off,constructive
+12,"Good idea, but the background music is too loud.",constructive,good idea but the background music is too loud,constructive
+13,"Love the edit, but transitions could be smoother.",constructive,love the edit but transitions could be smoother,constructive
+14,"Concept is strong, maybe add clearer voiceover?",constructive,concept is strong maybe add clearer voiceover,constructive
+15,"The pacing was fine, but visuals felt rushed at the end.",constructive,the pacing was fine but visuals felt rushed at the end,constructive
+16,This is trash lol,hate,this is trash lol,hate
+17,Worst edit I’ve seen today 💀,hate,worst edit ive seen today,praise
+18,"Bro stop posting, it's embarrassing",hate,bro stop posting its embarrassing,hate
+19,LOL what is this nonsense,hate,lol what is this nonsense,hate
+20,Such low-effort garbage omg,hate,such loweffort garbage omg,hate
+21,If you post this again I’ll report your page.,threat,if you post this again ill report your page,threat
+22,Delete this or you’ll regret it. Not joking.,threat,delete this or youll regret it not joking,threat
+23,I swear I'll take this down myself.,threat,i swear ill take this down myself,threat
+24,I’m gonna complain about this officially.,threat,im gonna complain about this officially,threat
+25,You better watch out with this kind of post.,threat,you better watch out with this kind of post,threat
+26,This reminded me of my school days 😭,emotional,this reminded me of my school days,emotional
+27,Damn this hit my heart man omg,emotional,damn this hit my heart man omg,emotional
+28,Feeling nostalgic fr fr,emotional,feeling nostalgic fr fr,emotional
+29,I miss those times… thanks for this 🥺,emotional,i miss those times thanks for this,spam
+30,This gave me goosebumps.,emotional,this gave me goosebumps,emotional
+31,Follow me for free followers!!,spam,follow me for free followers,spam
+32,Get 10k followers in 2 mins: www.fakepromo.com,spam,get 10k followers in 2 mins,spam
+33,DM me for promo deals!!🔥,spam,dm me for promo deals,spam
+34,Click here to win an iPhone 👉 spamlink.com,spam,click here to win an iphone spamlinkcom,spam
+35,Join my telegram for crypto signals!!,spam,join my telegram for crypto signals,spam
+36,Can you make one on study motivation?,question,can you make one on study motivation,question
+37,How did you edit the text effect?,question,how did you edit the text effect,question
+38,What app do you use for animations?,question,what app do you use for animations,question
+39,Can you try a darker theme next time?,question,can you try a darker theme next time,question
+40,Will you do a tutorial on this?,question,will you do a tutorial on this,question
+41,"The lighting was nice, but the color grading felt heavy.",constructive,the lighting was nice but the color grading felt heavy,constructive
+42,Good attempt but the subtitles were too fast.,constructive,good attempt but the subtitles were too fast,constructive
+43,The message is sweet but maybe shorten the intro?,constructive,the message is sweet but maybe shorten the intro,constructive
+44,"Love the song choice, but it's slightly loud.",constructive,love the song choice but its slightly loud,constructive
+45,Visuals were good but the pacing needs work.,constructive,visuals were good but the pacing needs work,constructive
+46,Amazing transition work 🔥🔥🔥,praise,amazing transition work,praise
+47,Broooo this looks so clean omg,praise,broooo this looks so clean omg,praise
+48,You executed this so well!,praise,you executed this so well,praise
+49,This feels so warm and wholesome 😭,praise,this feels so warm and wholesome,emotional
+50,Loving your consistency ❤️,support,loving your consistency,support
+51,You’re getting better with every post!,support,youre getting better with every post,threat
+52,"Keep posting, don’t stop!",support,keep posting dont stop,support
+53,We believe in you always!,support,we believe in you always,question
+54,The idea is nice but the ending felt rushed.,constructive,the idea is nice but the ending felt rushed,constructive
+55,"Maybe reduce the text speed, it's too fast.",constructive,maybe reduce the text speed its too fast,constructive
+56,Transitions were decent but could be smoother.,constructive,transitions were decent but could be smoother,constructive
+57,"Sound is clipping at some parts, check that.",constructive,sound is clipping at some parts check that,constructive
+58,Nice but maybe tone down the brightness.,constructive,nice but maybe tone down the brightness,constructive
+59,Bro this is horrible 😂,hate,bro this is horrible,hate
+60,Stop posting pls 🤦‍♂️,hate,stop posting pls,hate
+61,Actual garbage content lol,hate,actual garbage content lol,hate
+62,Man what even is this edit,hate,man what even is this edit,hate
+63,Your edits are getting worse 💀,hate,your edits are getting worse,constructive
+64,Do this again and I'll report this page myself.,threat,do this again and ill report this page myself,threat
+65,Careful what you post here.,threat,careful what you post here,threat
+66,Don’t force me to take action.,threat,dont force me to take action,threat
+67,I'll escalate this if needed.,threat,ill escalate this if needed,threat
+68,"This content is risky, remove it immediately.",threat,this content is risky remove it immediately,threat
+69,This made me tear up man 😭,emotional,this made me tear up man,emotional
+70,Hits right in the feelings 🥺,emotional,hits right in the feelings,constructive
+71,Made me miss my people sm.,emotional,made me miss my people sm,emotional
+72,This brought back memories.,emotional,this brought back memories,threat
+73,Aww this touched my heart.,emotional,aww this touched my heart,emotional
+74,Free promo here 👉 clickme.com,spam,free promo here clickmecom,spam
+75,"Boost followers fast, DM me!",spam,boost followers fast dm me,spam
+76,Sponsored by XYZ — check the link!,spam,sponsored by xyz check the link,spam
+77,Win cash prizes now!!,spam,win cash prizes now,spam
+78,Join my live for giveaways!,spam,join my live for giveaways,spam
+79,Can you try adding a cinematic vibe?,question,can you try adding a cinematic vibe,question
+80,Which software did you use for this?,question,which software did you use for this,question
+81,How long did this take to make?,question,how long did this take to make,question
+82,Can you post a longer version?,question,can you post a longer version,question
+83,Can you teach this style?,question,can you teach this style,question
+84,Love the first half but second half feels weak.,constructive,love the first half but second half feels weak,constructive
+85,The text could be more readable.,constructive,the text could be more readable,constructive
+86,Maybe tone down the effects a bit.,constructive,maybe tone down the effects a bit,constructive
+87,Music choice is nice but too loud.,constructive,music choice is nice but too loud,constructive
+88,Try adding captions for clarity.,constructive,try adding captions for clarity,constructive
+89,"You’re doing so well dude, keep shining!",support,youre doing so well dude keep shining,support
+90,So proud of your growth!,support,so proud of your growth,support
+91,"Good one, keep pushing!",support,good one keep pushing,support
+92,Great improvement from your last one!,support,great improvement from your last one,support
+93,Rooting for you always!,support,rooting for you always,question
+94,BANGER EDIT 🔥🔥🔥,praise,banger edit,praise
+95,This slaps omg,praise,this slaps omg,praise
+96,Love this energy,praise,love this energy,praise
+97,Such a beautiful vibe,praise,such a beautiful vibe,praise
+98,This is too good omg 😭,praise,this is too good omg,praise
+99,This edit sucks ngl,hate,this edit sucks ngl,hate
+100,Mid edit fr,hate,mid edit fr,emotional
+101,The beat drop is messy bro,constructive,the beat drop is messy bro,constructive
+102,Try smoothing the zooms a bit.,constructive,try smoothing the zooms a bit,constructive
+103,Good attempt but lacks impact.,constructive,good attempt but lacks impact,constructive
+104,Text outline is too thick.,constructive,text outline is too thick,constructive
+105,Try a softer color palette.,constructive,try a softer color palette,constructive
+106,Unfollowed lol,hate,unfollowed lol,hate
+107,Just stop already,hate,just stop already,hate
+108,Who told you this was good?,hate,who told you this was good,hate
+109,Delete this now.,threat,delete this now,threat
+110,You're crossing lines here.,threat,youre crossing lines here,threat
+111,This unlocked a core memory 😭,emotional,this unlocked a core memory,emotional
+112,Made me feel something real.,emotional,made me feel something real,emotional
+113,Awww this is precious,emotional,awww this is precious,emotional
+114,Such nostalgia 🥺,emotional,such nostalgia,hate
+115,Reminds me of simpler days.,emotional,reminds me of simpler days,emotional
+116,Click for instant followers 👉 scam.com,spam,click for instant followers scamcom,spam
+117,Cheap promos here!,spam,cheap promos here,spam
+118,DM for growth hacks!,spam,dm for growth hacks,spam
+119,Free shoutouts!,spam,free shoutouts,spam
+120,Join my insta group!,spam,join my insta group,spam
+121,Can you make one for birthday edits?,question,can you make one for birthday edits,question
+122,What camera settings do you use?,question,what camera settings do you use,question
+123,How did you sync it so perfectly?,question,how did you sync it so perfectly,question
+124,Tutorial please?,question,tutorial please,question
+125,Can you try a slow-mo version?,question,can you try a slowmo version,question
+126,Nice idea but execution feels off.,constructive,nice idea but execution feels off,constructive
+127,Audio quality needs improvement.,constructive,audio quality needs improvement,constructive
+128,Add more contrast in visuals.,constructive,add more contrast in visuals,constructive
+129,Try cutting the first 2 seconds.,constructive,try cutting the first 2 seconds,constructive
+130,The ending felt abrupt.,constructive,the ending felt abrupt,constructive
+131,Insanely good edit wow,praise,insanely good edit wow,praise
+132,LEGIT FIRE 🔥,praise,legit fire,praise
+133,This is so pleasing,praise,this is so pleasing,praise
+134,Clean work!,praise,clean work,praise
+135,Aesthetic af omg,praise,aesthetic af omg,praise
+136,Bro it’s painful to watch this.,hate,bro its painful to watch this,hate
+137,Stop editing please 😭,hate,stop editing please,hate
+138,L content,hate,l content,constructive
+139,Nah this ain’t it chief,hate,nah this aint it chief,hate
+140,Trash edit again lol,hate,trash edit again lol,hate
+141,Don’t make me report this again.,threat,dont make me report this again,threat
+142,"Last warning, remove it.",threat,last warning remove it,threat
+143,You will face consequences for this.,threat,you will face consequences for this,threat
+144,I’m lodging a complaint.,threat,im lodging a complaint,threat
+145,You better fix this.,threat,you better fix this,threat
+146,This hit my heart 🥺,emotional,this hit my heart,emotional
+147,Feeling sentimental after watching this.,emotional,feeling sentimental after watching this,emotional
+148,So many memories coming back.,emotional,so many memories coming back,constructive
+149,My childhood flashed before me.,emotional,my childhood flashed before me,emotional
+150,This touched my soul.,emotional,this touched my soul,emotional
+151,Check my profile for giveaways!,spam,check my profile for giveaways,spam
+152,Instant followers here!,spam,instant followers here,spam
+153,Promo deals available!,spam,promo deals available,spam
+154,Join my channel!,spam,join my channel,spam
+155,Earn money fast!,spam,earn money fast,spam
+156,Can you make one with calmer music?,question,can you make one with calmer music,question
+157,What editing app is this?,question,what editing app is this,hate
+158,Can you add English subtitles?,question,can you add english subtitles,question
+159,Do a part 2 pls!,question,do a part 2 pls,question
+160,How many hours did this take?,question,how many hours did this take,question
+161,"Loved it, but voiceover is slightly unclear.",constructive,loved it but voiceover is slightly unclear,constructive
+162,Try matching the beat more tightly.,constructive,try matching the beat more tightly,constructive
+163,"Great try, maybe reduce shake.",constructive,great try maybe reduce shake,constructive
+164,Color doesn’t match the mood.,constructive,color doesnt match the mood,constructive
+165,Font style is a bit distracting.,constructive,font style is a bit distracting,constructive
+166,PERFECT EDIT 🔥,praise,perfect edit,praise
+167,I’m obsessed with this 😭,praise,im obsessed with this,praise
+168,Lovely work!,praise,lovely work,praise
+169,Chef’s kiss 👌,praise,chefs kiss,praise
+170,This is truly amazing!,praise,this is truly amazing,praise
+171,Straight up awful bro,hate,straight up awful bro,hate
+172,What am I even watching lol,hate,what am i even watching lol,hate
+173,So bad 😭😭😭,hate,so bad,hate
+174,Not this again 😭,hate,not this again,hate
+175,Bro delete your editing app,hate,bro delete your editing app,hate
+176,Take this down now!,threat,take this down now,threat
+177,You're violating guidelines.,threat,youre violating guidelines,threat
+178,Don’t push your luck.,threat,dont push your luck,support
+179,Consider this a warning.,threat,consider this a warning,threat
+180,I’ll take action soon.,threat,ill take action soon,threat
+181,This made me emotional man 😭,emotional,this made me emotional man,emotional
+182,I love when edits feel this real.,emotional,i love when edits feel this real,emotional
+183,Made my eyes water.,emotional,made my eyes water,emotional
+184,So wholesome omg 😭,emotional,so wholesome omg,praise
+185,Touching edit fr,emotional,touching edit fr,emotional
+186,Click this for free cash!,spam,click this for free cash,spam
+187,Limited time promo!,spam,limited time promo,spam
+188,DM for instant boosts!,spam,dm for instant boosts,spam
+189,Free shoutouts available!,spam,free shoutouts available,spam
+190,Win giveaways here!,spam,win giveaways here,spam
+191,Can you add a calming filter?,question,can you add a calming filter,question
+192,Do you mind sharing the preset?,question,do you mind sharing the preset,question
+193,What frame rate did you export?,question,what frame rate did you export,question
+194,Can you make reels for pets?,question,can you make reels for pets,question
+195,Which LUT did you use?,question,which lut did you use,question
+196,"Good, but transitions need work.",constructive,good but transitions need work,constructive
+197,"Voice feels low, increase volume.",constructive,voice feels low increase volume,constructive
+198,Speed is inconsistent in some parts.,constructive,speed is inconsistent in some parts,constructive
+199,Try adjusting brightness a bit.,constructive,try adjusting brightness a bit,constructive
+200,"Intro is too long, trim it down.",constructive,intro is too long trim it down,constructive

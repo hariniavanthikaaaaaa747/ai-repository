@@ -1,0 +1,201 @@
+id,text,label,emotion,structure
+1,Amazing work bro 😭🔥 loved this!,praise,Praise,aggressive
+2,This is sooo good omg,praise,Neutral / Other,neutral
+3,"Beautiful animation, keep shining!",praise,Praise,aggressive
+4,Love the vibe of this video!,praise,Praise,aggressive
+5,Your content always hits different!,praise,Neutral / Other,aggressive
+6,"Keep going, you're improving every day 🤍",support,Support,neutral
+7,"Don’t stop, rooting for you!",support,Neutral / Other,aggressive
+8,"You're doing great, trust the process.",support,Praise,neutral
+9,Proud of you for posting this!,support,Support,aggressive
+10,"You got this, waiting for more!",support,Neutral / Other,aggressive
+11,Nice attempt but the audio timing feels a bit off.,constructive,Praise,emotional
+12,"Good idea, but the background music is too loud.",constructive,Neutral / Other,neutral
+13,"Love the edit, but transitions could be smoother.",constructive,Praise,neutral
+14,"Concept is strong, maybe add clearer voiceover?",constructive,Question,neutral
+15,"The pacing was fine, but visuals felt rushed at the end.",constructive,Neutral / Other,neutral
+16,This is trash lol,hate,Hate,neutral
+17,Worst edit I’ve seen today 💀,hate,Neutral / Other,neutral
+18,"Bro stop posting, it's embarrassing",hate,Neutral / Other,neutral
+19,LOL what is this nonsense,hate,Neutral / Other,neutral
+20,Such low-effort garbage omg,hate,Neutral / Other,neutral
+21,If you post this again I’ll report your page.,threat,Threat,neutral
+22,Delete this or you’ll regret it. Not joking.,threat,Neutral / Other,neutral
+23,I swear I'll take this down myself.,threat,Threat,neutral
+24,I’m gonna complain about this officially.,threat,Neutral / Other,neutral
+25,You better watch out with this kind of post.,threat,Threat,neutral
+26,This reminded me of my school days 😭,emotional,Emotional,neutral
+27,Damn this hit my heart man omg,emotional,Emotional,emotional
+28,Feeling nostalgic fr fr,emotional,Neutral / Other,neutral
+29,I miss those times… thanks for this 🥺,emotional,Neutral / Other,neutral
+30,This gave me goosebumps.,emotional,Neutral / Other,neutral
+31,Follow me for free followers!!,spam,Spam,aggressive
+32,Get 10k followers in 2 mins: www.fakepromo.com,spam,Spam,neutral
+33,DM me for promo deals!!🔥,spam,Spam,aggressive
+34,Click here to win an iPhone 👉 spamlink.com,spam,Spam,emotional
+35,Join my telegram for crypto signals!!,spam,Neutral / Other,aggressive
+36,Can you make one on study motivation?,question,Question,neutral
+37,How did you edit the text effect?,question,Question,neutral
+38,What app do you use for animations?,question,Question,neutral
+39,Can you try a darker theme next time?,question,Question,neutral
+40,Will you do a tutorial on this?,question,Question,neutral
+41,"The lighting was nice, but the color grading felt heavy.",constructive,Praise,neutral
+42,Good attempt but the subtitles were too fast.,constructive,Neutral / Other,neutral
+43,The message is sweet but maybe shorten the intro?,constructive,Question,neutral
+44,"Love the song choice, but it's slightly loud.",constructive,Praise,neutral
+45,Visuals were good but the pacing needs work.,constructive,Neutral / Other,neutral
+46,Amazing transition work 🔥🔥🔥,praise,Praise,emotional
+47,Broooo this looks so clean omg,praise,Neutral / Other,neutral
+48,You executed this so well!,praise,Neutral / Other,aggressive
+49,This feels so warm and wholesome 😭,praise,Neutral / Other,neutral
+50,Loving your consistency ❤️,support,Neutral / Other,neutral
+51,You’re getting better with every post!,support,Neutral / Other,aggressive
+52,"Keep posting, don’t stop!",support,Neutral / Other,aggressive
+53,We believe in you always!,support,Neutral / Other,aggressive
+54,The idea is nice but the ending felt rushed.,constructive,Praise,neutral
+55,"Maybe reduce the text speed, it's too fast.",constructive,Neutral / Other,neutral
+56,Transitions were decent but could be smoother.,constructive,Neutral / Other,neutral
+57,"Sound is clipping at some parts, check that.",constructive,Neutral / Other,neutral
+58,Nice but maybe tone down the brightness.,constructive,Praise,neutral
+59,Bro this is horrible 😂,hate,Neutral / Other,neutral
+60,Stop posting pls 🤦‍♂️,hate,Neutral / Other,neutral
+61,Actual garbage content lol,hate,Emotional,emotional
+62,Man what even is this edit,hate,Neutral / Other,neutral
+63,Your edits are getting worse 💀,hate,Neutral / Other,neutral
+64,Do this again and I'll report this page myself.,threat,Neutral / Other,neutral
+65,Careful what you post here.,threat,Neutral / Other,neutral
+66,Don’t force me to take action.,threat,Emotional,emotional
+67,I'll escalate this if needed.,threat,Neutral / Other,neutral
+68,"This content is risky, remove it immediately.",threat,Neutral / Other,neutral
+69,This made me tear up man 😭,emotional,Neutral / Other,neutral
+70,Hits right in the feelings 🥺,emotional,Neutral / Other,neutral
+71,Made me miss my people sm.,emotional,Neutral / Other,neutral
+72,This brought back memories.,emotional,Neutral / Other,neutral
+73,Aww this touched my heart.,emotional,Praise,neutral
+74,Free promo here 👉 clickme.com,spam,Spam,emotional
+75,"Boost followers fast, DM me!",spam,Spam,aggressive
+76,Sponsored by XYZ — check the link!,spam,Neutral / Other,aggressive
+77,Win cash prizes now!!,spam,Praise,aggressive
+78,Join my live for giveaways!,spam,Neutral / Other,aggressive
+79,Can you try adding a cinematic vibe?,question,Question,neutral
+80,Which software did you use for this?,question,Question,neutral
+81,How long did this take to make?,question,Question,neutral
+82,Can you post a longer version?,question,Question,neutral
+83,Can you teach this style?,question,Question,neutral
+84,Love the first half but second half feels weak.,constructive,Praise,neutral
+85,The text could be more readable.,constructive,Neutral / Other,neutral
+86,Maybe tone down the effects a bit.,constructive,Neutral / Other,neutral
+87,Music choice is nice but too loud.,constructive,Praise,neutral
+88,Try adding captions for clarity.,constructive,Neutral / Other,neutral
+89,"You’re doing so well dude, keep shining!",support,Neutral / Other,aggressive
+90,So proud of your growth!,support,Praise,aggressive
+91,"Good one, keep pushing!",support,Praise,aggressive
+92,Great improvement from your last one!,support,Praise,aggressive
+93,Rooting for you always!,support,Neutral / Other,aggressive
+94,BANGER EDIT 🔥🔥🔥,praise,Neutral / Other,aggressive
+95,This slaps omg,praise,Neutral / Other,neutral
+96,Love this energy,praise,Praise,neutral
+97,Such a beautiful vibe,praise,Praise,neutral
+98,This is too good omg 😭,praise,Neutral / Other,neutral
+99,This edit sucks ngl,hate,Neutral / Other,neutral
+100,Mid edit fr,hate,Emotional,emotional
+101,The beat drop is messy bro,constructive,Neutral / Other,neutral
+102,Try smoothing the zooms a bit.,constructive,Neutral / Other,neutral
+103,Good attempt but lacks impact.,constructive,Neutral / Other,neutral
+104,Text outline is too thick.,constructive,Neutral / Other,neutral
+105,Try a softer color palette.,constructive,Neutral / Other,neutral
+106,Unfollowed lol,hate,Praise,neutral
+107,Just stop already,hate,Neutral / Other,neutral
+108,Who told you this was good?,hate,Question,neutral
+109,Delete this now.,threat,Neutral / Other,neutral
+110,You're crossing lines here.,threat,Neutral / Other,neutral
+111,This unlocked a core memory 😭,emotional,Neutral / Other,neutral
+112,Made me feel something real.,emotional,Neutral / Other,neutral
+113,Awww this is precious,emotional,Praise,neutral
+114,Such nostalgia 🥺,emotional,Neutral / Other,neutral
+115,Reminds me of simpler days.,emotional,Emotional,emotional
+116,Click for instant followers 👉 scam.com,spam,Neutral / Other,neutral
+117,Cheap promos here!,spam,Spam,aggressive
+118,DM for growth hacks!,spam,Neutral / Other,aggressive
+119,Free shoutouts!,spam,Spam,aggressive
+120,Join my insta group!,spam,Neutral / Other,aggressive
+121,Can you make one for birthday edits?,question,Question,neutral
+122,What camera settings do you use?,question,Question,neutral
+123,How did you sync it so perfectly?,question,Question,neutral
+124,Tutorial please?,question,Praise,neutral
+125,Can you try a slow-mo version?,question,Question,neutral
+126,Nice idea but execution feels off.,constructive,Praise,emotional
+127,Audio quality needs improvement.,constructive,Neutral / Other,neutral
+128,Add more contrast in visuals.,constructive,Emotional,emotional
+129,Try cutting the first 2 seconds.,constructive,Neutral / Other,neutral
+130,The ending felt abrupt.,constructive,Neutral / Other,neutral
+131,Insanely good edit wow,praise,Praise,neutral
+132,LEGIT FIRE 🔥,praise,Neutral / Other,aggressive
+133,This is so pleasing,praise,Praise,neutral
+134,Clean work!,praise,Praise,aggressive
+135,Aesthetic af omg,praise,Neutral / Other,neutral
+136,Bro it’s painful to watch this.,hate,Neutral / Other,neutral
+137,Stop editing please 😭,hate,Neutral / Other,neutral
+138,L content,hate,Praise,neutral
+139,Nah this ain’t it chief,hate,Neutral / Other,neutral
+140,Trash edit again lol,hate,Hate,neutral
+141,Don’t make me report this again.,threat,Neutral / Other,neutral
+142,"Last warning, remove it.",threat,Neutral / Other,neutral
+143,You will face consequences for this.,threat,Neutral / Other,neutral
+144,I’m lodging a complaint.,threat,Neutral / Other,neutral
+145,You better fix this.,threat,Neutral / Other,neutral
+146,This hit my heart 🥺,emotional,Emotional,emotional
+147,Feeling sentimental after watching this.,emotional,Praise,neutral
+148,So many memories coming back.,emotional,Neutral / Other,neutral
+149,My childhood flashed before me.,emotional,Neutral / Other,neutral
+150,This touched my soul.,emotional,Neutral / Other,neutral
+151,Check my profile for giveaways!,spam,Neutral / Other,aggressive
+152,Instant followers here!,spam,Neutral / Other,aggressive
+153,Promo deals available!,spam,Spam,aggressive
+154,Join my channel!,spam,Praise,aggressive
+155,Earn money fast!,spam,Neutral / Other,aggressive
+156,Can you make one with calmer music?,question,Question,neutral
+157,What editing app is this?,question,Question,neutral
+158,Can you add English subtitles?,question,Question,neutral
+159,Do a part 2 pls!,question,Neutral / Other,aggressive
+160,How many hours did this take?,question,Question,neutral
+161,"Loved it, but voiceover is slightly unclear.",constructive,Praise,neutral
+162,Try matching the beat more tightly.,constructive,Neutral / Other,neutral
+163,"Great try, maybe reduce shake.",constructive,Praise,neutral
+164,Color doesn’t match the mood.,constructive,Emotional,emotional
+165,Font style is a bit distracting.,constructive,Neutral / Other,neutral
+166,PERFECT EDIT 🔥,praise,Praise,aggressive
+167,I’m obsessed with this 😭,praise,Neutral / Other,neutral
+168,Lovely work!,praise,Praise,aggressive
+169,Chef’s kiss 👌,praise,Praise,neutral
+170,This is truly amazing!,praise,Praise,aggressive
+171,Straight up awful bro,hate,Neutral / Other,neutral
+172,What am I even watching lol,hate,Neutral / Other,neutral
+173,So bad 😭😭😭,hate,Neutral / Other,neutral
+174,Not this again 😭,hate,Neutral / Other,neutral
+175,Bro delete your editing app,hate,Neutral / Other,neutral
+176,Take this down now!,threat,Neutral / Other,aggressive
+177,You're violating guidelines.,threat,Neutral / Other,neutral
+178,Don’t push your luck.,threat,Neutral / Other,neutral
+179,Consider this a warning.,threat,Neutral / Other,neutral
+180,I’ll take action soon.,threat,Neutral / Other,neutral
+181,This made me emotional man 😭,emotional,Neutral / Other,neutral
+182,I love when edits feel this real.,emotional,Praise,neutral
+183,Made my eyes water.,emotional,Neutral / Other,neutral
+184,So wholesome omg 😭,emotional,Neutral / Other,neutral
+185,Touching edit fr,emotional,Neutral / Other,neutral
+186,Click this for free cash!,spam,Spam,aggressive
+187,Limited time promo!,spam,Spam,aggressive
+188,DM for instant boosts!,spam,Neutral / Other,aggressive
+189,Free shoutouts available!,spam,Spam,aggressive
+190,Win giveaways here!,spam,Praise,aggressive
+191,Can you add a calming filter?,question,Question,neutral
+192,Do you mind sharing the preset?,question,Question,neutral
+193,What frame rate did you export?,question,Question,neutral
+194,Can you make reels for pets?,question,Question,neutral
+195,Which LUT did you use?,question,Question,neutral
+196,"Good, but transitions need work.",constructive,Neutral / Other,neutral
+197,"Voice feels low, increase volume.",constructive,Emotional,emotional
+198,Speed is inconsistent in some parts.,constructive,Neutral / Other,neutral
+199,Try adjusting brightness a bit.,constructive,Neutral / Other,neutral
+200,"Intro is too long, trim it down.",constructive,Neutral / Other,neutral

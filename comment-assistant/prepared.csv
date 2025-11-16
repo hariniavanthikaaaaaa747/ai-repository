@@ -1,0 +1,201 @@
+id,text,label
+1,"Amazing work bro 😭🔥 loved this!",praise
+2,"This is sooo good omg",praise
+3,"Beautiful animation, keep shining!",praise
+4,"Love the vibe of this video!",praise
+5,"Your content always hits different!",praise
+6,"Keep going, you're improving every day 🤍",support
+7,"Don’t stop, rooting for you!",support
+8,"You're doing great, trust the process.",support
+9,"Proud of you for posting this!",support
+10,"You got this, waiting for more!",support
+11,"Nice attempt but the audio timing feels a bit off.",constructive
+12,"Good idea, but the background music is too loud.",constructive
+13,"Love the edit, but transitions could be smoother.",constructive
+14,"Concept is strong, maybe add clearer voiceover?",constructive
+15,"The pacing was fine, but visuals felt rushed at the end.",constructive
+16,"This is trash lol",hate
+17,"Worst edit I’ve seen today 💀",hate
+18,"Bro stop posting, it's embarrassing",hate
+19,"LOL what is this nonsense",hate
+20,"Such low-effort garbage omg",hate
+21,"If you post this again I’ll report your page.",threat
+22,"Delete this or you’ll regret it. Not joking.",threat
+23,"I swear I'll take this down myself.",threat
+24,"I’m gonna complain about this officially.",threat
+25,"You better watch out with this kind of post.",threat
+26,"This reminded me of my school days 😭",emotional
+27,"Damn this hit my heart man omg",emotional
+28,"Feeling nostalgic fr fr",emotional
+29,"I miss those times… thanks for this 🥺",emotional
+30,"This gave me goosebumps.",emotional
+31,"Follow me for free followers!!",spam
+32,"Get 10k followers in 2 mins: www.fakepromo.com",spam
+33,"DM me for promo deals!!🔥",spam
+34,"Click here to win an iPhone 👉 spamlink.com",spam
+35,"Join my telegram for crypto signals!!",spam
+36,"Can you make one on study motivation?",question
+37,"How did you edit the text effect?",question
+38,"What app do you use for animations?",question
+39,"Can you try a darker theme next time?",question
+40,"Will you do a tutorial on this?",question
+41,"The lighting was nice, but the color grading felt heavy.",constructive
+42,"Good attempt but the subtitles were too fast.",constructive
+43,"The message is sweet but maybe shorten the intro?",constructive
+44,"Love the song choice, but it's slightly loud.",constructive
+45,"Visuals were good but the pacing needs work.",constructive
+46,"Amazing transition work 🔥🔥🔥",praise
+47,"Broooo this looks so clean omg",praise
+48,"You executed this so well!",praise
+49,"This feels so warm and wholesome 😭",praise
+50,"Loving your consistency ❤️",support
+51,"You’re getting better with every post!",support
+52,"Keep posting, don’t stop!",support
+53,"We believe in you always!",support
+54,"The idea is nice but the ending felt rushed.",constructive
+55,"Maybe reduce the text speed, it's too fast.",constructive
+56,"Transitions were decent but could be smoother.",constructive
+57,"Sound is clipping at some parts, check that.",constructive
+58,"Nice but maybe tone down the brightness.",constructive
+59,"Bro this is horrible 😂",hate
+60,"Stop posting pls 🤦‍♂️",hate
+61,"Actual garbage content lol",hate
+62,"Man what even is this edit",hate
+63,"Your edits are getting worse 💀",hate
+64,"Do this again and I'll report this page myself.",threat
+65,"Careful what you post here.",threat
+66,"Don’t force me to take action.",threat
+67,"I'll escalate this if needed.",threat
+68,"This content is risky, remove it immediately.",threat
+69,"This made me tear up man 😭",emotional
+70,"Hits right in the feelings 🥺",emotional
+71,"Made me miss my people sm.",emotional
+72,"This brought back memories.",emotional
+73,"Aww this touched my heart.",emotional
+74,"Free promo here 👉 clickme.com",spam
+75,"Boost followers fast, DM me!",spam
+76,"Sponsored by XYZ — check the link!",spam
+77,"Win cash prizes now!!",spam
+78,"Join my live for giveaways!",spam
+79,"Can you try adding a cinematic vibe?",question
+80,"Which software did you use for this?",question
+81,"How long did this take to make?",question
+82,"Can you post a longer version?",question
+83,"Can you teach this style?",question
+84,"Love the first half but second half feels weak.",constructive
+85,"The text could be more readable.",constructive
+86,"Maybe tone down the effects a bit.",constructive
+87,"Music choice is nice but too loud.",constructive
+88,"Try adding captions for clarity.",constructive
+89,"You’re doing so well dude, keep shining!",support
+90,"So proud of your growth!",support
+91,"Good one, keep pushing!",support
+92,"Great improvement from your last one!",support
+93,"Rooting for you always!",support
+94,"BANGER EDIT 🔥🔥🔥",praise
+95,"This slaps omg",praise
+96,"Love this energy",praise
+97,"Such a beautiful vibe",praise
+98,"This is too good omg 😭",praise
+99,"This edit sucks ngl",hate
+100,"Mid edit fr",hate
+101,"The beat drop is messy bro",constructive
+102,"Try smoothing the zooms a bit.",constructive
+103,"Good attempt but lacks impact.",constructive
+104,"Text outline is too thick.",constructive
+105,"Try a softer color palette.",constructive
+106,"Unfollowed lol",hate
+107,"Just stop already",hate
+108,"Who told you this was good?",hate
+109,"Delete this now.",threat
+110,"You're crossing lines here.",threat
+111,"This unlocked a core memory 😭",emotional
+112,"Made me feel something real.",emotional
+113,"Awww this is precious",emotional
+114,"Such nostalgia 🥺",emotional
+115,"Reminds me of simpler days.",emotional
+116,"Click for instant followers 👉 scam.com",spam
+117,"Cheap promos here!",spam
+118,"DM for growth hacks!",spam
+119,"Free shoutouts!",spam
+120,"Join my insta group!",spam
+121,"Can you make one for birthday edits?",question
+122,"What camera settings do you use?",question
+123,"How did you sync it so perfectly?",question
+124,"Tutorial please?",question
+125,"Can you try a slow-mo version?",question
+126,"Nice idea but execution feels off.",constructive
+127,"Audio quality needs improvement.",constructive
+128,"Add more contrast in visuals.",constructive
+129,"Try cutting the first 2 seconds.",constructive
+130,"The ending felt abrupt.",constructive
+131,"Insanely good edit wow",praise
+132,"LEGIT FIRE 🔥",praise
+133,"This is so pleasing",praise
+134,"Clean work!",praise
+135,"Aesthetic af omg",praise
+136,"Bro it’s painful to watch this.",hate
+137,"Stop editing please 😭",hate
+138,"L content",hate
+139,"Nah this ain’t it chief",hate
+140,"Trash edit again lol",hate
+141,"Don’t make me report this again.",threat
+142,"Last warning, remove it.",threat
+143,"You will face consequences for this.",threat
+144,"I’m lodging a complaint.",threat
+145,"You better fix this.",threat
+146,"This hit my heart 🥺",emotional
+147,"Feeling sentimental after watching this.",emotional
+148,"So many memories coming back.",emotional
+149,"My childhood flashed before me.",emotional
+150,"This touched my soul.",emotional
+151,"Check my profile for giveaways!",spam
+152,"Instant followers here!",spam
+153,"Promo deals available!",spam
+154,"Join my channel!",spam
+155,"Earn money fast!",spam
+156,"Can you make one with calmer music?",question
+157,"What editing app is this?",question
+158,"Can you add English subtitles?",question
+159,"Do a part 2 pls!",question
+160,"How many hours did this take?",question
+161,"Loved it, but voiceover is slightly unclear.",constructive
+162,"Try matching the beat more tightly.",constructive
+163,"Great try, maybe reduce shake.",constructive
+164,"Color doesn’t match the mood.",constructive
+165,"Font style is a bit distracting.",constructive
+166,"PERFECT EDIT 🔥",praise
+167,"I’m obsessed with this 😭",praise
+168,"Lovely work!",praise
+169,"Chef’s kiss 👌",praise
+170,"This is truly amazing!",praise
+171,"Straight up awful bro",hate
+172,"What am I even watching lol",hate
+173,"So bad 😭😭😭",hate
+174,"Not this again 😭",hate
+175,"Bro delete your editing app",hate
+176,"Take this down now!",threat
+177,"You're violating guidelines.",threat
+178,"Don’t push your luck.",threat
+179,"Consider this a warning.",threat
+180,"I’ll take action soon.",threat
+181,"This made me emotional man 😭",emotional
+182,"I love when edits feel this real.",emotional
+183,"Made my eyes water.",emotional
+184,"So wholesome omg 😭",emotional
+185,"Touching edit fr",emotional
+186,"Click this for free cash!",spam
+187,"Limited time promo!",spam
+188,"DM for instant boosts!",spam
+189,"Free shoutouts available!",spam
+190,"Win giveaways here!",spam
+191,"Can you add a calming filter?",question
+192,"Do you mind sharing the preset?",question
+193,"What frame rate did you export?",question
+194,"Can you make reels for pets?",question
+195,"Which LUT did you use?",question
+196,"Good, but transitions need work.",constructive
+197,"Voice feels low, increase volume.",constructive
+198,"Speed is inconsistent in some parts.",constructive
+199,"Try adjusting brightness a bit.",constructive
+200,"Intro is too long, trim it down.",constructive
